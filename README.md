@@ -50,7 +50,8 @@ Agora que você já sabe as formas de contribuir em um projeto Open Source, est�
 Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
 
 > [!NOTE]   
-> Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
+> Por exemplo:
+> a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
 
 ### Contribua com seu Profile README
 Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
@@ -64,7 +65,8 @@ Para isso, você pode inserir: badges indicando suas habilidades; cards com suas
 [![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
 
 > [!IMPORTANT]   
-> Confira as instruções antes de enviar a sua contribuição em [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
+> Confira as instruções antes de enviar a sua contribuição em:
+>  [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
 
 ### Fórum do Repositório (GitHub Discussions)
 GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. Caso tenha dúvidas, você pode abrir uma discussão, dentro de uma categoria apropriada, na aba "Discussions" do repositório do projeto.
